@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
+body{
+    font-family: 'Oswald', sans-serif;
+}
+#container-usuario h3{
+    text-align:center;
+}
+#form-usuario{
+    margin-top:20%;
+    text-align:center;
+}
+#menu{
+    background:#3F51B5;
+    height:50px;
+}
+#icone-menu{
+    color:white;
+    margin:10px;
+    font-size:24px
+}
+#loading{
+    width:64px;
+    height:64px;
+    position:relative;
+    margin:0 auto;
+    top:10px;
+    bottom:0;
+    left:0;
+    right:0;
+    display:none;
+}
